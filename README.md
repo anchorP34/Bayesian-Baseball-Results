@@ -1,5 +1,6 @@
 # Bayesian-Baseball-Results
 Predicting MLB Games Using Bayesian Models
+Tableau Public link for data visualization: https://public.tableau.com/profile/payton.soicher#!/vizhome/MLBBayesianAnalysis/Story1?publish=yes
 
 # Head to Head Files
 Each of the files that have Head To Head in them are the head to head matchups for each season. Each of these files can be recreated by referencing the head_to_head.py file like this:
