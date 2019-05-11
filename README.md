@@ -1,5 +1,6 @@
 # Bayesian-Baseball-Results
 Predicting MLB Games Using Bayesian Models
+
 Tableau Public link for data visualization: https://public.tableau.com/profile/payton.soicher#!/vizhome/MLBBayesianAnalysis/Story1?publish=yes
 
 # Head to Head Files
