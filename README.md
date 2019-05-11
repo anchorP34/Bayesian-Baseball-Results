@@ -13,7 +13,7 @@ Jupyter Notebook that runs analysis on machine learning algorithms compared to t
 
 # head_to_head.py
    Description: 
-        Pulling every inning of every game from the input season from https://www.baseball-reference.com
+        Pulling all outcomes of every game from the input season from https://www.baseball-reference.com
     
     INPUT: 
         Season (int) - The season of the MLB year you would like to pull
