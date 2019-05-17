@@ -12,6 +12,9 @@ final_results_dict_2018, final_results_df_2018 =  head_to_head([2018], None, Non
 
 final_results_df_2018.to_excel('2018 Head to Head.xlsx', index = False)
 
+# BaseballBayesian
+This folder holds all of the information needed to look at for building a docker image that can run this web scraping process.
+
 # Bayesian Modeling with Machine Learning
 Jupyter Notebook that runs analysis on machine learning algorithms compared to the accuracy of a regular Bayesian model.
 
