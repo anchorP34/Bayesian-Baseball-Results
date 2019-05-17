@@ -23,6 +23,10 @@ Run Docker image to load data to personal folder:
 
 docker run -v "$(pwd)":/app  bayesian-baseball --season 2019
 
+You can also download the paytonsoicher/bayesian-baseball image on docker hub here:
+
+https://cloud.docker.com/u/paytonsoicher/repository/docker/paytonsoicher/bayesian-baseball
+
 # Bayesian Modeling with Machine Learning
 Jupyter Notebook that runs analysis on machine learning algorithms compared to the accuracy of a regular Bayesian model.
 
