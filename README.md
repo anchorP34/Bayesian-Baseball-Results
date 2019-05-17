@@ -15,6 +15,12 @@ final_results_df_2018.to_excel('2018 Head to Head.xlsx', index = False)
 # BaseballBayesian
 This folder holds all of the information needed to look at for building a docker image that can run this web scraping process.
 
+Build docker image:
+docker build -t bayesian-baseball .
+
+Run Docker image to load data to personal folder
+docker run -v "$(pwd)":/app  bayesian-baseball --season 2019
+
 # Bayesian Modeling with Machine Learning
 Jupyter Notebook that runs analysis on machine learning algorithms compared to the accuracy of a regular Bayesian model.
 
